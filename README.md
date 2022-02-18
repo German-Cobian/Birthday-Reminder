@@ -2,7 +2,7 @@
 
 > "Birthday-Reminder" is a simple app that reads and displays the dummy data contained in a file in the form of an array of objects (this data puports to be the photo, name, age and id-number of people whose birthday is today). It also allows for all the information to be cleared away at the click of a button. The app is based on the eponimous project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
 
-![Birthday-Reminders]('../public/birthday-reminders.png)
+![Birthday-Reminders]('/public/birthday-reminders.png?raw=true)
  
 ### LiveDemo
 
