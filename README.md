@@ -1,8 +1,15 @@
 # Birthday-Reminder
 
-> "Birthday-Reminder" is a simple app that reads and displays the dummy data contained in a file in the form of an array of objects (this data puports to be the photo, name, age and id-number of people whose birthday is today). It also allows for all the information to be cleared away at the click of a button. The app is based on the eponimous project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
+A simple React app that reads and displays the dummy data contained in a file in the form of an array of objects (this data puports to be the photo, name, age and id-number of people whose birthday is today).  
 
-![Birthday-Reminders](/public/birthday-reminders.png?raw=true "Birthday-Reminder")
+![Birthday reminders](/public/Birthday-reminders.png?raw=true "Birthday reminders")
+
+It also allows for all the information to be cleared away at the click of a button.
+
+![No birthday reminders](/public/No-birthday-reminders.png?raw=true "No birthday reminder")
+
+The app is based on one of the project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
+
  
 ### LiveDemo
 
@@ -19,7 +26,8 @@
 
 ## Built With
 
-* Semantic HTML
+* HTML
+* CSS
 * JavaScript
 * React
 * Github workflow
@@ -45,8 +53,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- freeCodeCamp.org
-- Code reviewer(s).
+Guidelines for this tutorial supplied by freeCodeCamp.org, specifically in their [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) tutorial.
 
 ## 📝 License
 
