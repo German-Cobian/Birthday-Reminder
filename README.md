@@ -2,11 +2,11 @@
 
 A simple React app that reads and displays the dummy data contained in a file in the form of an array of objects (this data puports to be the photo, name, age and id-number of people whose birthday is today).  
 
-![Birthday reminders](/public/Birthday-reminders.png?raw=true "Birthday reminders")
+![Birthday reminders](/src/assets/Birthday-reminders.png?raw=true "Birthday reminders")
 
 It also allows for all the information to be cleared away at the click of a button.
 
-![No birthday reminders](/public/No-Birthday-reminders.png?raw=true "No birthday reminder")
+![No birthday reminders](/src/assets/No-Birthday-reminders.png?raw=true "No birthday reminder")
 
 The app is based on one of the project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
  
