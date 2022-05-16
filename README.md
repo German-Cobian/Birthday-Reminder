@@ -24,14 +24,13 @@ The app is based on one of the project that appears in the tutorial [Code 15 Rea
 * To fire up the server run `npm start`
 * Visit `http://localhost:3001/` in your browser to get into the app
 
+
 ## Built With
 
 * HTML
 * CSS
 * JavaScript
 * React
-* Github workflow
-* Linters(stylelint, Webhint, eslint)
 
 
 ## Author
@@ -41,19 +40,23 @@ The app is based on one of the project that appears in the tutorial [Code 15 Rea
 * Twitter: [@GermanCobian1](https://twitter.com/GermanCobian1)
 * LinkedIn: [@German Cobian](https://www.linkedin.com/in/german-cobian/)
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/German-Cobian/Birthday-Reminder/issues).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+
 ## Acknowledgments
 
 Guidelines for this tutorial supplied by freeCodeCamp.org, specifically in their [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) tutorial.
+
 
 ## 📝 License
 
