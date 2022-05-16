@@ -6,7 +6,7 @@ A simple React app that reads and displays the dummy data contained in a file in
 
 It also allows for all the information to be cleared away at the click of a button.
 
-![No birthday reminders](/public/No-Birthday-reminders.png?raw=true "No birthday reminder")
+![No birthday reminders](/public/No-birthday-reminders.png?raw=true "No birthday reminder")
 
 The app is based on one of the project that appears in the tutorial [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) by freeCodeCamp.org.
  
